@@ -1,0 +1,5 @@
+65/75
+
+This project uses an SVM to classify a text as written by one of 4 authors. Several features were evaluated, including POS tags and lexical diversity. Main suggestions are: (1) very few data were used (~15 examples); given how easy it would be to collect more data, it is surprising that so few examples were used; (2) only SVMs were used; it would be good to compare to some other classifier.; (3) generally, I expected a bit more from a two-person project.
+
+
